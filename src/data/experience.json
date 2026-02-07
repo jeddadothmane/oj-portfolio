@@ -1,0 +1,88 @@
+[
+  {
+    "id": "exp-1",
+    "type": "experience",
+    "company": { "fr": "Atos", "en": "Atos" },
+    "logo": "/logos/Atos_logo.png",
+    "title": {
+      "fr": "Ingénieur Logiciel (Alternance)",
+      "en": "Software Engineer (Apprenticeship)"
+    },
+    "location": {
+      "fr": "Strasbourg, France",
+      "en": "Strasbourg, France"
+    },
+    "period": "2023 – Présent",
+    "description": {
+      "fr": "Intervention sur les référentiels de données critiques de la douane, refonte des APIs métiers et modernisation des interfaces d'administration.",
+      "en": "Work on customs critical data master systems, overhaul of business APIs and modernization of administration interfaces."
+    },
+    "highlights": {
+      "fr": [
+        "Intervention sur les référentiels de données critiques de la douane : refonte des bases de données et des procédures stockées (ROSA, RUSH), avec des enjeux forts d'intégrité et de performance.",
+        "Refonte et modernisation des APIs métiers stratégiques, utilisées par plus de 100 applications clientes de la douane et traitant plus de 5 millions de requêtes par semaine.",
+        "Modernisation des interfaces d'administration associées aux référentiels.",
+        "Analyse et résolution de tickets TMA, avec proposition et mise en œuvre de solutions techniques adaptées.",
+        "Rédaction et exécution de tests unitaires et d'intégration, ainsi que production de documentation technique (architectures, guides, procédures)."
+      ],
+      "en": [
+        "Work on customs critical data master systems: database and stored procedure redesign (ROSA, RUSH), with strong integrity and performance requirements.",
+        "Overhaul and modernization of strategic business APIs, used by over 100 customs client applications and handling over 5 million requests per week.",
+        "Modernization of administration interfaces associated with the master systems.",
+        "Analysis and resolution of TMA tickets, with proposal and implementation of appropriate technical solutions.",
+        "Writing and execution of unit and integration tests, as well as production of technical documentation (architectures, guides, procedures)."
+      ]
+    },
+    "tools": [
+      { "id": "openjdk", "label": { "fr": "Java", "en": "Java" } },
+      { "id": "spring", "label": { "fr": "Spring", "en": "Spring" } },
+      { "id": "microsoftsqlserver", "label": { "fr": "Microsoft SQL Server", "en": "Microsoft SQL Server" } },
+      { "id": "angular", "label": { "fr": "Angular", "en": "Angular" } },
+      { "id": "dotnet", "label": { "fr": "Classic ASP", "en": "Classic ASP" } },
+      { "id": "xml", "label": { "fr": "XML", "en": "XML" } },
+      { "id": "apachetomcat", "label": { "fr": "Tomcat", "en": "Tomcat" } },
+      { "id": "jenkins", "label": { "fr": "Jenkins", "en": "Jenkins" } }
+    ]
+  },
+  {
+    "id": "exp-2",
+    "type": "experience",
+    "company": { "fr": "Averda", "en": "Averda" },
+    "logo": "/logos/averda.jpg",
+    "title": {
+      "fr": "Stage - Ingénieur ML & Data Science",
+      "en": "Intern - ML & Data Science Engineer"
+    },
+    "location": {
+      "fr": "Casablanca, Maroc",
+      "en": "Casablanca, Morocco"
+    },
+    "period": "2021 – 2023",
+    "description": {
+      "fr": "Développement d'un modèle d'IA de vision par ordinateur pour l'identification de déchets, avec une application web Flask.",
+      "en": "Development of a computer vision AI model for waste identification, with a Flask web application."
+    },
+    "highlights": {
+      "fr": [
+        "Développement d'un modèle d'IA de vision par ordinateur pour l'identification de déchets à l'aide de YOLOv8.",
+        "Préparation, adaptation et annotation de jeux de données pour l'entraînement du modèle.",
+        "Entraînement et évaluation du modèle YOLOv8 sur des images spécifiques.",
+        "Conception d'une application web avec interface utilisateur pour l'exploitation du modèle IA via le framework Flask."
+      ],
+      "en": [
+        "Development of a computer vision AI model for waste identification using YOLOv8.",
+        "Data preparation, adaptation and annotation for model training.",
+        "Training and evaluation of the YOLOv8 model on specific images.",
+        "Design of a web application with user interface for exploiting the AI model via the Flask framework."
+      ]
+    },
+    "tools": [
+      { "id": "python", "label": { "fr": "Python", "en": "Python" } },
+      { "id": "pytorch", "label": { "fr": "Ultralytics", "en": "Ultralytics" } },
+      { "id": "yolov8", "label": { "fr": "YOLOv8", "en": "YOLOv8" } },
+      { "id": "flask", "label": { "fr": "Flask", "en": "Flask" } },
+      { "id": "googlecolab", "label": { "fr": "Google Colab", "en": "Google Colab" } },
+      { "id": "jupyter", "label": { "fr": "Jupyter", "en": "Jupyter" } }
+    ]
+  }
+]

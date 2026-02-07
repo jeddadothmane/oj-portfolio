@@ -1,0 +1,53 @@
+{
+  "frontend": [
+    { "id": "react", "label": { "fr": "React", "en": "React" } },
+    { "id": "ts", "label": { "fr": "TypeScript", "en": "TypeScript" } },
+    { "id": "tailwind", "label": { "fr": "Tailwind CSS", "en": "Tailwind CSS" } },
+    { "id": "framer-motion", "label": { "fr": "Framer Motion", "en": "Framer Motion" } },
+    { "id": "angular", "label": { "fr": "Angular", "en": "Angular" } },
+    { "id": "jetpackcompose", "label": { "fr": "Jetpack Compose", "en": "Jetpack Compose" } }
+  ],
+  "backend": [
+    { "id": "node", "label": { "fr": "Node.js", "en": "Node.js" } },
+    { "id": "express", "label": { "fr": "Express", "en": "Express" } },
+    { "id": "openjdk", "label": { "fr": "Java", "en": "Java" } },
+    { "id": "spring", "label": { "fr": "Spring", "en": "Spring" } },
+    { "id": "python", "label": { "fr": "Python", "en": "Python" } },
+    { "id": "flask", "label": { "fr": "Flask", "en": "Flask" } },
+    { "id": "aspnetcore", "label": { "fr": "ASP.NET Core", "en": "ASP.NET Core" } },
+    { "id": "kotlin", "label": { "fr": "Kotlin", "en": "Kotlin" } }
+
+  ],
+  "dataML": [
+    { "id": "tensorflow", "label": { "fr": "TensorFlow/Keras", "en": "TensorFlow/Keras" } },
+    { "id": "pytorch", "label": { "fr": "PyTorch", "en": "PyTorch" } },
+    { "id": "pandas", "label": { "fr": "Pandas", "en": "Pandas" } },
+    { "id": "numpy", "label": { "fr": "NumPy", "en": "NumPy" } },
+    { "id": "streamlit", "label": { "fr": "Streamlit", "en": "Streamlit" } },
+    { "id": "plotly", "label": { "fr": "Plotly", "en": "Plotly" } },
+    { "id": "jupyter", "label": { "fr": "Jupyter", "en": "Jupyter" } }
+  ],
+  "databases": [
+    { "id": "db-sql", "label": { "fr": "SQL", "en": "SQL" } },
+    { "id": "microsoftsqlserver", "label": { "fr": "SQL Server", "en": "SQL Server" } },
+    { "id": "sqlite", "label": { "fr": "SQLite", "en": "SQLite" } },
+    { "id": "nosql", "label": { "fr": "NoSQL", "en": "NoSQL" } },
+    { "id": "mongodb", "label": { "fr": "MongoDB", "en": "MongoDB" } }
+  ],
+  "tools": [
+    { "id": "git", "label": { "fr": "Git & GitHub", "en": "Git & GitHub" } },
+    { "id": "docker", "label": { "fr": "Docker", "en": "Docker" } },
+    { "id": "jenkins", "label": { "fr": "Jenkins", "en": "Jenkins" } },
+    { "id": "apachetomcat", "label": { "fr": "Tomcat", "en": "Tomcat" } },
+    { "id": "androidstudio", "label": { "fr": "Android Studio", "en": "Android Studio" } },
+    { "id": "testing", "label": { "fr": "Tests (JUnit, Cypress)", "en": "Testing (JUnit, Cypress)" } }
+  ],
+  "softSkills": [
+    { "id": "problem-solving", "label": { "fr": "Résolution de problèmes", "en": "Problem-solving" } },
+    { "id": "communication", "label": { "fr": "Communication", "en": "Communication" } },
+    { "id": "teamwork", "label": { "fr": "Travail d'équipe", "en": "Teamwork" } },
+    { "id": "adaptability", "label": { "fr": "Adaptabilité", "en": "Adaptability" } },
+    { "id": "autonomy", "label": { "fr": "Autonomie", "en": "Autonomy" } },
+    { "id": "documentation", "label": { "fr": "Documentation technique", "en": "Technical documentation" } }
+  ]
+}

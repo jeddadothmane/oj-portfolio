@@ -1,0 +1,91 @@
+{
+  "fr": {
+    "hero": {
+      "greeting": "Bonjour, je suis",
+      "name": "Othmane JEDDAD",
+      "role": "Ingénieur Logiciel",
+      "typingLines": [
+        "J'architecture des APIs robustes et sécurisées.",
+        "Je conçois des interfaces réactives et modernes.",
+        "J'automatise des workflows pour gagner du temps."
+      ],
+      "ctaPrimary": "Voir mes projets"
+    },
+    "sections": {
+      "educationExperience": "Formations",
+      "experience": "Expériences",
+      "projects": "Projets",
+      "skills": "Compétences"
+    },
+    "labels": {
+      "timelineEducation": "Formation",
+      "timelineExperience": "Expérience",
+      "techStack": "Stack technique",
+      "tools": "Outils",
+      "skillsFrontend": "Frontend",
+      "skillsBackend": "Backend",
+      "skillsDataML": "Data & ML",
+      "skillsDatabases": "Bases de données",
+      "skillsTools": "Outils",
+      "skillsSoft": "Soft skills"
+    },
+    "language": {
+      "switchLabel": "Langue",
+      "fr": "FR",
+      "en": "EN"
+    },
+    "projects": {
+      "github": "Code",
+      "demo": "Démo"
+    },
+    "footer": {
+      "madeWith": "Copyright © 2025 Othmane JEDDAD. All rights reserved."
+    }
+  },
+  "en": {
+    "hero": {
+      "greeting": "Hi, I'm",
+      "name": "Othmane JEDDAD",
+      "role": "Software Engineer",
+      "typingLines": [
+        "I build modern, reactive user interfaces.",
+        "I design robust and secure APIs.",
+        "I automate workflows to save time."
+      ],
+      "ctaPrimary": "View my projects",
+      "ctaSecondary": "Download CV"
+    },
+    "sections": {
+      "educationExperience": "Education",
+      "experience": "Work Experience",
+      "projects": "Projects",
+      "skills": "Skills"
+    },
+    "labels": {
+      "timelineEducation": "Education",
+      "timelineExperience": "Experience",
+      "techStack": "Tech stack",
+      "tools": "Tools",
+      "skillsFrontend": "Frontend",
+      "skillsBackend": "Backend",
+      "skillsDataML": "Data & ML",
+      "skillsDatabases": "Databases",
+      "skillsTools": "Tools",
+      "skillsSoft": "Soft skills"
+    },
+    "language": {
+      "switchLabel": "Language",
+      "fr": "FR",
+      "en": "EN"
+    },
+    "projects": {
+      "github": "Code",
+      "demo": "Live"
+    },
+    "footer": {
+      "madeWith": "Copyright © 2025 Othmane JEDDAD. All rights reserved."
+    }
+  }
+}
+
+

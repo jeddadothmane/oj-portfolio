@@ -1,0 +1,60 @@
+[
+  {
+    "id": "edu-1",
+    "type": "education",
+    "institution": {
+      "fr": "École Nationale Supérieure d'Ingénieurs Sud-Alsace (ENSISA)",
+      "en": "École Nationale Supérieure d'Ingénieurs Sud-Alsace (ENSISA)"
+    },
+    "logo": "/logos/ensisa.jpg",
+    "title": {
+      "fr": "Diplôme d'Ingénieur - Spécialité Informatique & Réseaux",
+      "en": "Master of Engineering - Computer Science & Networks"
+    },
+    "location": {
+      "fr": "Mulhouse, France",
+      "en": "Mulhouse, France"
+    },
+    "period": "2022 – 2025",
+    "description": {
+      "fr": "Formation d'ingénieur généraliste en informatique axée sur l'ingénierie logicielle, les réseaux et le cloud computing.",
+      "en": "General engineering training in computer science focused on software engineering, networks and cloud computing."
+    },
+    "highlights": {
+      "fr": [
+        "Formation d'ingénieur généraliste en informatique axée sur l'ingénierie logicielle, les réseaux et le cloud computing.",
+        "Cours avancés en intelligence artificielle, data engineering et systèmes distribués.",
+        "Compétences en développement logiciel, architecture cloud et administration réseau.",
+        "Initiation à la gestion de projet, au management et aux méthodes agiles."
+      ],
+      "en": [
+        "General engineering training in computer science focused on software engineering, networks and cloud computing.",
+        "Advanced courses in artificial intelligence, data engineering and distributed systems.",
+        "Skills in software development, cloud architecture and network administration.",
+        "Introduction to project management, management and agile methods."
+      ]
+    }
+  },
+  {
+    "id": "edu-2",
+    "type": "education",
+    "institution": {
+      "fr": "Lycée Technique Mohammedia - Centre CPGE",
+      "en": "Mohammedia Technical High School - CPGE Center"
+    },
+    "logo": "/logos/classes_prepas_logo.jpg",
+    "title": {
+      "fr": "Classes Préparatoires aux Grandes Écoles (BAC+2)",
+      "en": "Preparatory Classes for the Grandes Écoles"
+    },
+    "location": {
+      "fr": "Casablanca, Maroc",
+      "en": "Casablanca, Morocco"
+    },
+    "period": "2022 – 2025",
+    "description": {
+      "fr": "Deux années préparatoires intensives en mathématiques, physique, mécanique, génie électrique et informatique.",
+      "en": "Two intensive preparatory years in mathematics, physics, mechanics, electrical engineering and computer science."
+    }
+  }
+]

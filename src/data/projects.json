@@ -1,0 +1,122 @@
+[
+  {
+    "id": "proj-spotiboard",
+    "title": {
+      "fr": "SpotiBoard – Dashboard d'analyse des données d'écoute Spotify",
+      "en": "SpotiBoard – Spotify listening data analysis dashboard"
+    },
+    "year": "2025",
+    "description": {
+      "fr": "Tableau de bord interactif pour analyser ses données d'écoute personnelles Spotify.",
+      "en": "Interactive dashboard to analyze personal Spotify listening data."
+    },
+    "highlights": {
+      "fr": [
+        "Tableau de bord interactif permettant à l'utilisateur d'analyser ses données d'écoute personnelles Spotify (artistes, titres, tendances).",
+        "Filtres temporels et visualisations dynamiques pour l'exploration des données."
+      ],
+      "en": [
+        "Interactive dashboard allowing users to analyze their personal Spotify listening data (artists, tracks, trends).",
+        "Temporal filters and dynamic visualizations for data exploration."
+      ]
+    },
+    "tools": [
+      { "id": "python", "label": { "fr": "Python", "en": "Python" } },
+      { "id": "streamlit", "label": { "fr": "Streamlit", "en": "Streamlit" } },
+      { "id": "pandas", "label": { "fr": "Pandas", "en": "Pandas" } },
+      { "id": "plotly", "label": { "fr": "Plotly", "en": "Plotly" } }
+    ],
+    "links": {
+      "github": "https://github.com/jeddadothmane/spoti-board"
+    }
+  },
+  {
+    "id": "proj-rencar",
+    "title": {
+      "fr": "Ren'Car – Application Android de gestion de location de véhicules",
+      "en": "Ren'Car – Android vehicle rental management application"
+    },
+    "year": "2025",
+    "description": {
+      "fr": "Application mobile Android en Kotlin pour la gestion complète des prêts, véhicules et clients.",
+      "en": "Android mobile application in Kotlin for complete management of loans, vehicles and customers."
+    },
+    "highlights": {
+      "fr": [
+        "Application mobile Android en Kotlin (architecture MVVM, Room).",
+        "Gestion complète des prêts, véhicules et clients via une interface intuitive."
+      ],
+      "en": [
+        "Android mobile application in Kotlin (MVVM architecture, Room).",
+        "Complete management of loans, vehicles and customers via an intuitive interface."
+      ]
+    },
+    "tools": [
+      { "id": "kotlin", "label": { "fr": "Kotlin", "en": "Kotlin" } },
+      { "id": "android", "label": { "fr": "Android", "en": "Android" } },
+      { "id": "androidstudio", "label": { "fr": "Android Studio", "en": "Android Studio" } },
+      { "id": "jetpackcompose", "label": { "fr": "Jetpack Compose", "en": "Jetpack Compose" } }
+    ],
+    "links": {}
+  },
+  {
+    "id": "proj-puissance4",
+    "title": {
+      "fr": "Puissance 4 – Application web multijoueur",
+      "en": "Connect 4 – Multiplayer web application"
+    },
+    "year": "2025",
+    "description": {
+      "fr": "Jeu en ligne multijoueur temps réel développé avec ASP.NET et Razor Pages (C#).",
+      "en": "Real-time multiplayer online game developed with ASP.NET and Razor Pages (C#)."
+    },
+    "highlights": {
+      "fr": [
+        "Jeu en ligne développé avec ASP.NET et Razor Pages (C#); mode multijoueur temps réel.",
+        "Sauvegarde des parties et historique dans une base de données."
+      ],
+      "en": [
+        "Online game developed with ASP.NET and Razor Pages (C#); real-time multiplayer mode.",
+        "Game save and history in a database."
+      ]
+    },
+    "tools": [
+      { "id": "csharp", "label": { "fr": "C#", "en": "C#" } },
+      { "id": "aspnetcore", "label": { "fr": "ASP.NET Core", "en": "ASP.NET Core" } },
+      { "id": "razorpages", "label": { "fr": "Razor Pages", "en": "Razor Pages" } },
+      { "id": "sqlite", "label": { "fr": "SQLite", "en": "SQLite" } }
+    ],
+    "links": {}
+  },
+  {
+    "id": "proj-classification-ecg",
+    "title": {
+      "fr": "Classification ECG – Projet MLOps",
+      "en": "ECG Classification – MLOps project"
+    },
+    "description": {
+      "fr": "Détection et classification de signaux ECG normaux et anormaux avec MLP, CNN 1D et RNN (LSTM).",
+      "en": "Detection and classification of normal and abnormal ECG signals with MLP, 1D CNN and RNN (LSTM)."
+    },
+    "highlights": {
+      "fr": [
+        "Détection et classification de signaux ECG normaux et anormaux avec MLP, CNN 1D et RNN (LSTM).",
+        "Évaluation des modèles (complexité, performance) et mise en place d'une pipeline reproductible via Docker."
+      ],
+      "en": [
+        "Detection and classification of normal and abnormal ECG signals with MLP, 1D CNN and RNN (LSTM).",
+        "Model evaluation (complexity, performance) and implementation of a reproducible pipeline via Docker."
+      ]
+    },
+    "tools": [
+      { "id": "python", "label": { "fr": "Python", "en": "Python" } },
+      { "id": "tensorflow", "label": { "fr": "TensorFlow/Keras", "en": "TensorFlow/Keras" } },
+      { "id": "numpy", "label": { "fr": "NumPy", "en": "NumPy" } },
+      { "id": "pandas", "label": { "fr": "Pandas", "en": "Pandas" } },
+      { "id": "matplotlib", "label": { "fr": "Matplotlib", "en": "Matplotlib" } },
+      { "id": "docker", "label": { "fr": "Docker", "en": "Docker" } },
+      { "id": "jupyter", "label": { "fr": "Jupyter", "en": "Jupyter" } }
+    ],
+    "links": {}
+  }
+]
