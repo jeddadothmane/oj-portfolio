@@ -1,5 +1,36 @@
 [
   {
+    "id": "proj-promptify",
+    "title": {
+      "fr": "Promptify – Contrôleur Spotify basé sur GenAI",
+      "en": "Promptify – GenAI-based Spotify controller"
+    },
+    "year": "2025",
+    "description": {
+      "fr": "Application GenAI qui transforme des prompts en langage naturel en actions Spotify (création de playlists, recherche/ajout de morceaux).",
+      "en": "GenAI application that transforms natural language prompts into Spotify actions (playlist creation, track search/add)."
+    },
+    "highlights": {
+      "fr": [
+        "Interface d'outils MCP avec un backend FastAPI ; le function calling d'un LLM orchestre la Spotify Web API.",
+        "Création de playlists, recherche et ajout de morceaux via des commandes en langage naturel."
+      ],
+      "en": [
+        "MCP tools interface with a FastAPI backend; an LLM's function calling orchestrates the Spotify Web API.",
+        "Playlist creation, track search and add via natural language commands."
+      ]
+    },
+    "tools": [
+      { "id": "python", "label": { "fr": "Python", "en": "Python" } },
+      { "id": "fastapi", "label": { "fr": "FastAPI", "en": "FastAPI" } },
+      { "id": "mcp", "label": { "fr": "MCP", "en": "MCP" } },
+      { "id": "llm-openai", "label": { "fr": "LLM/OpenAI", "en": "LLM/OpenAI" } },
+      { "id": "spotify-web-api", "label": { "fr": "Spotify Web API", "en": "Spotify Web API" } },
+      { "id": "docker", "label": { "fr": "Docker", "en": "Docker" } }
+    ],
+    "links": {}
+  },
+  {
     "id": "proj-spotiboard",
     "title": {
       "fr": "SpotiBoard – Dashboard d'analyse des données d'écoute Spotify",
