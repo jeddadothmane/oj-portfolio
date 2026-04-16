@@ -129,7 +129,7 @@ const Hero = () => {
                 <span className="text-terminal-green">focus</span>
                 <span className="text-slate-500">:</span>{" "}
                 <span className="text-violet-300">
-                  Software Engineering · Data Engineering · Artificial Intelligence
+                  Software Engineering · DevOps · Artificial Intelligence
                 </span>
               </p>
               <p>

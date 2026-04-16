@@ -3,7 +3,7 @@
     "hero": {
       "greeting": "Bonjour, je suis",
       "name": "Othmane JEDDAD",
-      "role": "Ingénieur Logiciel",
+      "role": "Ingénieur Plateforme Cloud & SRE",
       "typingLines": [
         "J'architecture des APIs robustes et sécurisées.",
         "Je conçois des interfaces réactives et modernes.",
@@ -46,7 +46,7 @@
     "hero": {
       "greeting": "Hi, I'm",
       "name": "Othmane JEDDAD",
-      "role": "Software Engineer",
+      "role": "Cloud Platform & Site Reliability Engineer",
       "typingLines": [
         "I build modern, reactive user interfaces.",
         "I design robust and secure APIs.",
