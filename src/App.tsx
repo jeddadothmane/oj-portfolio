@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import Hero from "./components/Hero";
 import Timeline from "./components/Timeline";
 import ProjectsSection from "./components/ProjectsSection";
@@ -45,6 +46,7 @@ const App = () => {
           <SkillsSection />
         </section>
       </div>
+      <Analytics />
     </MainLayout>
   );
 };
